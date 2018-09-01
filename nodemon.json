@@ -1,0 +1,8 @@
+{
+    "env": {
+        "STRING_CONNECTION": "",
+        "JWT_KEY": "key",
+        "URL_PEDIDOS": "http://localhost:3000/pedidos/",
+        "URL_PRODUTOS": "http://localhost:3000/produtos/"
+    }
+}
